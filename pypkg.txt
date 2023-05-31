@@ -1,5 +1,6 @@
 BeautifulSoup4
 SQLAlchemy
+PyQt6
 aiosqlite
 alembic
 bcrypt
